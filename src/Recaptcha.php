@@ -2,6 +2,8 @@
 
 namespace Greggilbert\Recaptcha;
 
+use Illuminate\Support\Arr;
+
 class Recaptcha
 {
 
