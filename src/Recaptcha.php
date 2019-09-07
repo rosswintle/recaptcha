@@ -76,6 +76,6 @@ class Recaptcha
      */
     protected function extractDataParams($options = [ ])
     {
-        return array_only($options, $this->dataParameterKeys);
+        return Arr::only($options, $this->dataParameterKeys);
     }
 }
