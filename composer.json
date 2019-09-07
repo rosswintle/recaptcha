@@ -12,7 +12,7 @@
         {
             "name": "Ross Wintle",
             "email": "ross@oikos.digital"
-        },
+        }
     ],
     "require": {
         "php": ">=7.2",
